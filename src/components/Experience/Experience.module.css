@@ -1,0 +1,39 @@
+.container {
+  padding: 40px;
+}
+
+.title {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: white;
+  font-Family: Baguet Script, cursive;
+}
+
+.category {
+  margin-bottom: 40px;
+}
+
+.categoryTitle {
+  font-size: 24px;
+  margin-bottom: 16px;
+  color: white;
+}
+
+.skillsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 20px;
+}
+
+.skill {
+  text-align: center;
+  color:white;
+  font-size: 18px;
+}
+
+.skillImageContainer img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}

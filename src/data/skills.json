@@ -1,0 +1,42 @@
+{
+  "Programming Languages": [
+    { "title": "Python", "imageSrc": "skills/python.png" },
+    { "title": "R", "imageSrc": "skills/R.png" },
+    { "title": "SQL", "imageSrc": "skills/sql.png" },
+    { "title": "Java", "imageSrc": "skills/java.png" },
+    { "title": "JavaScript", "imageSrc": "skills/JavaScript.png" },
+    { "title": "HTML", "imageSrc": "skills/html.png" },
+    { "title": "CSS", "imageSrc": "skills/css.png" }
+  ],
+  "Data Analysis": [
+    { "title": "Pandas", "imageSrc": "skills/pandas.png" },
+    { "title": "Numpy", "imageSrc": "skills/numpy.png" },
+    { "title": "Matplotlib", "imageSrc": "skills/matplotlib.png" },
+    { "title": "Seaborn", "imageSrc": "skills/seaborn.png" }
+  ],
+  "Frameworks & Libraries": [
+    { "title": "React", "imageSrc": "skills/react.png" },
+    { "title": "Bootstrap", "imageSrc": "skills/bootstrap.png" },
+    { "title": "Flask", "imageSrc": "skills/flask.png" },
+    { "title": "TensorFlow", "imageSrc": "skills/tensorflow.png" },
+    { "title": "Keras", "imageSrc": "skills/keras.png" },
+    { "title": "Simple Transformers", "imageSrc": "skills/simpletranformers.png" }
+  ],
+  "Data Visualization": [
+    { "title": "Tableau", "imageSrc": "skills/tableau.png" },
+    { "title": "Power BI", "imageSrc": "skills/powerbi.png" },
+    { "title": "Zoho Analytics", "imageSrc": "skills/zoho.png" }
+  ],
+  "Database Technologies": [
+    { "title": "MySQL", "imageSrc": "skills/sql.png" },
+    { "title": "Firebase", "imageSrc": "skills/firebase.png" }
+  ],
+  "Tools & Technologies": [
+    { "title": "OpenWeatherMap API", "imageSrc": "skills/open.png" },
+    { "title": "RESTful APIs", "imageSrc": "skills/restfullapi.png" },
+    { "title": "Jupyter Notebooks", "imageSrc": "skills/jypyter.png" },
+    { "title": "PyCharm", "imageSrc": "skills/pycharm.png" },
+    { "title": "VS Code", "imageSrc": "skills/vs.png" },
+    { "title": "Git", "imageSrc": "skills/git.png" }
+  ]
+}

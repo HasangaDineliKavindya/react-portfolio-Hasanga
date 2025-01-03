@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Civic-Connect - Complaint Management System",
+    "imageSrc": "projects/complaint_management_system.png",
+    "description": "Led a team in developing a complaint management system website, with features like image complaint pages, help sections, and sidebars.",
+    "skills": ["React", "Firebase", "Flask", "TensorFlow", "Keras", "Python", "CNN"],
+    "source": "https://github.com/Minds-In-Motion/SDGP"
+  },
+  {
+    "title": "WeatherWeb",
+    "imageSrc": "projects/weatherapp.png",
+    "description": "Created a web app using React and TypeScript for real-time weather updates, integrating OpenWeatherMap API and features like autosuggestions and social sharing.",
+    "skills": ["React.js", "TypeScript", "JavaScript", "HTML5", "CSS3", "OpenWeatherMap API"],
+    "source": "https://github.com/HasangaDineliKavindya/Weather-app"
+  },
+  {
+    "title": "NLP Text Summarization with Simple Transformers model train",
+    "imageSrc": "projects/infrastructure_issue.png",
+    "description": "Developed a text summarization solution using Simple Transformers and the BART architecture for advanced NLP techniques.",
+    "skills": [ "Python" ,"Simple Transformers"," Pandas", "Seq2SeqModel","BART model"],
+    "source": "https://github.com/HasangaDineliKavindya/infrastructure-issue-classification"
+  },
+  {
+    "title": "Infrastructure Issue Classification",
+    "imageSrc": "projects/infrastructure_issue.png",
+    "description": "Constructed a CNN model for infrastructure issue classification and resolution.",
+    "skills": ["Convolutional Neural Networks (CNN)", "Python"],
+    "source": "https://github.com/HasangaDineliKavindya/infrastructure-issue-classification"
+  },
+  {
+    "title": "Women's Health API",
+    "imageSrc": "projects/womens_health_api.png",
+    "description": "Developed a web application focused on women's health, utilizing Java to implement client and server-side architecture with secure data exchange.",
+    "skills": ["Java", "RESTful APIs"],
+    "source": "https://github.com/HasangaDineliKavindya/WomenHealthCare-API"
+  },
+  
+  {
+    "title": "Online Travel Booking",
+    "imageSrc": "projects/travel_booking.png",
+    "description": "Developed a website for online travel booking using HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "source": "https://github.com/HasangaDineliKavindya/online-travel-booking"
+  },
+ 
+  {
+    "title": "NLP Text Summarization with Simple Transformers model train",
+    "imageSrc": "projects/infrastructure_issue.png",
+    "description": "Developed a text summarization solution using Simple Transformers and the BART architecture for advanced NLP techniques.",
+    "skills": [ "Python" ,"Simple Transformers"," Pandas", "Seq2SeqModel","BART model"],
+    "source": "https://github.com/HasangaDineliKavindya/infrastructure-issue-classification"
+  }
+]

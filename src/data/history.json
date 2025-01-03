@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Data Scientist Intern",
+    "organisation": "Orel Corporation",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed, deployed, and optimized machine learning models for predictive analytics and customer insights."
+    ],
+    "imageSrc": "history/orelcorp.png"
+  },
+  {
+    "role": "Freelancer",
+    "organisation": "LookerStudio Project",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Building and optimizing customized dashboards, integrating data sources, and automating workflows for dynamic business intelligence insights using Looker Studio"
+    ],
+    "imageSrc": "history/fivver.png"
+  }
+]
